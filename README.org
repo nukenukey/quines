@@ -1,2 +1,2 @@
-* this is just a bunch of quines in a bunch of languages
+* this is just some quines in some languages
 * just for fun and practice
